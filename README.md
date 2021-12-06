@@ -8,7 +8,8 @@ A strong visual object tracker nowadays relies on its well-crafted modules, whic
 
 
 ### Official Checkpoint
-[ModelZoo] (https://drive.google.com/drive/folders/1LgtXDCFWzHVAPfT9-k5-9i5uIkBz6Eis?usp=sharing)
+[ModelZoo](https://drive.google.com/drive/folders/1LgtXDCFWzHVAPfT9-k5-9i5uIkBz6Eis?usp=sharing)
+
 ### Main Contributors
 * Javad Khaghani
 * Seyed Mojtaba Marvasti-Zade
