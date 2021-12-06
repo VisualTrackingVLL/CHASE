@@ -15,5 +15,5 @@ A strong visual object tracker nowadays relies on its well-crafted modules, whic
 * Seyed Mojtaba Marvasti-Zade
 
 ## Acknowledgments
-* This implementation is based on [PyTracking](https://github.com/visionml/pytracking), [PrROIPooling](https://github.com/vacancy/PreciseRoIPooling), and [DARTS](https://github.com/quark0/darts).  
+* This implementation is based on [PyTracking](https://github.com/visionml/pytracking), [PreciseROIPooling](https://github.com/vacancy/PreciseRoIPooling), and [DARTS](https://github.com/quark0/darts).  
 
