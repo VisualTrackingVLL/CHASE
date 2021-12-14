@@ -15,7 +15,7 @@ def run(settings):
     epochs=70
     start_epoch=0
     learning_rate_min=1e-4
-    is_search= True
+    is_search= False
     settings.description = 'Default train settings for PrDiMP with ResNet50 as backbone.'
     settings.batch_size = 10
     settings.num_workers = 8
